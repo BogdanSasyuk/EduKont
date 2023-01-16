@@ -1,0 +1,15 @@
+C:\Users\1\OneDrive\Рабочий стол\DomEdu\KontrolWork\Task02_prog\obj\Debug\net6.0\Task02_prog.csproj.AssemblyReference.cache
+C:\Users\1\OneDrive\Рабочий стол\DomEdu\KontrolWork\Task02_prog\obj\Debug\net6.0\Task02_prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\OneDrive\Рабочий стол\DomEdu\KontrolWork\Task02_prog\obj\Debug\net6.0\Task02_prog.AssemblyInfoInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\DomEdu\KontrolWork\Task02_prog\obj\Debug\net6.0\Task02_prog.AssemblyInfo.cs
+C:\Users\1\OneDrive\Рабочий стол\DomEdu\KontrolWork\Task02_prog\obj\Debug\net6.0\Task02_prog.csproj.CoreCompileInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\DomEdu\KontrolWork\Task02_prog\bin\Debug\net6.0\Task02_prog.exe
+C:\Users\1\OneDrive\Рабочий стол\DomEdu\KontrolWork\Task02_prog\bin\Debug\net6.0\Task02_prog.deps.json
+C:\Users\1\OneDrive\Рабочий стол\DomEdu\KontrolWork\Task02_prog\bin\Debug\net6.0\Task02_prog.runtimeconfig.json
+C:\Users\1\OneDrive\Рабочий стол\DomEdu\KontrolWork\Task02_prog\bin\Debug\net6.0\Task02_prog.dll
+C:\Users\1\OneDrive\Рабочий стол\DomEdu\KontrolWork\Task02_prog\bin\Debug\net6.0\Task02_prog.pdb
+C:\Users\1\OneDrive\Рабочий стол\DomEdu\KontrolWork\Task02_prog\obj\Debug\net6.0\Task02_prog.dll
+C:\Users\1\OneDrive\Рабочий стол\DomEdu\KontrolWork\Task02_prog\obj\Debug\net6.0\refint\Task02_prog.dll
+C:\Users\1\OneDrive\Рабочий стол\DomEdu\KontrolWork\Task02_prog\obj\Debug\net6.0\Task02_prog.pdb
+C:\Users\1\OneDrive\Рабочий стол\DomEdu\KontrolWork\Task02_prog\obj\Debug\net6.0\Task02_prog.genruntimeconfig.cache
+C:\Users\1\OneDrive\Рабочий стол\DomEdu\KontrolWork\Task02_prog\obj\Debug\net6.0\ref\Task02_prog.dll
