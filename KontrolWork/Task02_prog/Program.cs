@@ -12,15 +12,15 @@ Console.WriteLine("Введите массив значений через пр�
 string inputText = Console.ReadLine();
 string[] stringArray = inputText.Split(' ');
 string[] newarray = new string[stringArray.Length];
-int size = 0;
+int count = 0;
 foreach (string value in stringArray)
 {
     if (value.Length <= 5)
         {
-            newarray[size] = value;
-            size++;
+            newarray[count] = value;
+            count++;
         }
 }
 Console.Write("[");
-Console.Write(string.Join(", ", newarray, 0, size));
+Console.Write(string.Join(", ", newarray, 0, count));
 Console.Write("]");
